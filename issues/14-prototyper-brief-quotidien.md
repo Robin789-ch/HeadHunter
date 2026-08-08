@@ -6,4 +6,4 @@ Blocked by: 04, 05, 08, 09, 12, 13
 
 ## Question
 
-Quelle interface web locale permet de comprendre rapidement pourquoi chaque offre est proposée, de la déplacer sans ambiguïté entre Ignorer, À surveiller, Intéressé et Postuler dans un Kanban, puis de suivre séparément les états, échéances, relances et résultats des candidatures engagées dans un dashboard?
+Quelle interface web locale permet de comprendre rapidement pourquoi chaque offre est proposée, de la déplacer sans ambiguïté de Nouveau vers Ignorer, En réserve, Retenue ou Postuler dans un Kanban, de notifier qu'un dossier est prêt et de confirmer son envoi, puis de suivre séparément les états, échéances, relances et résultats des candidatures envoyées dans un dashboard?
